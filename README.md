@@ -1,6 +1,13 @@
 Cuisine Ordering Application !!
 
 
+
+
+FOR MORE DETAILS PLEASE WATCH THIS DEMO VIDEO : https://drive.google.com/file/d/1HJbGsvXnromTwLKKGGIgNULiT2X4SbFI/view?usp=sharing
+
+
+
+
 A user-friendly web application for ordering food online. Users can easily search for restaurants by location, filter options by cuisine or price, and place orders with secure payments.
 
 Features :
