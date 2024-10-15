@@ -1,16 +1,17 @@
-Cuisine Ordering Application !!
+# Cuisine Ordering Application !!
 
 
 
 
-FOR MORE DETAILS PLEASE WATCH THIS DEMO VIDEO : https://drive.google.com/file/d/1HJbGsvXnromTwLKKGGIgNULiT2X4SbFI/view?usp=sharing
+## FOR MORE DETAILS PLEASE WATCH THIS DEMO VIDEO : 
+        https://drive.google.com/file/d/1HJbGsvXnromTwLKKGGIgNULiT2X4SbFI/view?usp=sharing
 
 
 
 
 A user-friendly web application for ordering food online. Users can easily search for restaurants by location, filter options by cuisine or price, and place orders with secure payments.
 
-Features :
+### Features :
 
     -Account Management: Sign up or log in to manage your account.
     
@@ -23,7 +24,7 @@ Features :
     -Secure Payments: Make payments safely through Razorpay.
 
     
-Tech Stack : 
+### Tech Stack : 
 
     -Frontend: React
     
@@ -34,7 +35,7 @@ Tech Stack :
     -Payment Gateway: Razorpay
 
 
-How to Run : 
+### How to Run : 
 
     Clone the repository:
         -git clone https://github.com/your-username/cuisine-ordering-application.git
